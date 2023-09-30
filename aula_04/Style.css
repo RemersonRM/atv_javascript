@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(48, 0, 93);
+    font: 18pt Arial;
+    background-position: center;
+}
+
+.cal{
+    margin-top: 120px;
+    position: center;
+}
+.ma{
+    margin: 100px;
+    text-align: center;
+    position: center;
+}
+
+#Numero1{
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    left: 600px;
+}
+#Numero2{
+    width: 300px;
+    background-color: bisque;
+    position: absolute;
+    left: 600px;
+}
+
+.bC{
+    position: absolute;
+    top: 400px;
+    left: 670px;
+    border-radius: 500px;
+    background-color:cadetblue;
+}
+.bcr{
+    position: absolute;
+    top: 550px;
+    left: 670px;
+    border-radius: 500px;
+    background-color:cadetblue;
+}
+
+.ca{
+    margin-top: 130px;
+}
